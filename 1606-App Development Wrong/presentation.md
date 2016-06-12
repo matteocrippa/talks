@@ -1,45 +1,48 @@
+autoscale: true
 footer: © Matteo Crippa / boostco.de, 2016
 slidenumbers: true
 
-# App Development
+# iOS App Development
 ### you are doing it
-# **Wrong**
+# Wrong
+
+# :no_good:
 
 ---
 
-# [fit] **5**
+# [fit] :five:
 ## tips to improve your (app)
 # [fit] **security**
 
 ---
 
-> **Hacking & Phishing** is done by professionals.
+> **Hacking & Phishing** is done by professional :sunglasses:.
 -- mr. Obvious
 
 ---
 
-> :family: are the biggest security issue in your App
+> :bow: are the biggest security issue in your App
 -- ~~Chinese~~ Developer proverb
 
 ---
 
-# 1. Alert them if **VPN** is required
+# 1. Alert :speech_balloon: them if **VPN** is required
 
-A lot of :family: forget to activate their **VPN** tunnel before using your app.
+A lot of :bow: forget to activate their **VPN** tunnel before using your app.
 
 Be smart, provide them a feedback about this and also guide them on how to activate it.
 
 ----
 
-# 2. Passwords are user's worst nightmares
+# 2. Passwords are user's worst nightmares :japanese_goblin:
 
-:family: hates to manage and deal with passwords, this make them vulnerable using **stupid common** passwords.
+:bow: hate to manage and deal with passwords, this make them vulnerable 'cuz they are using **stupid common** passwords.
 
 If you are working with devices with **finger printing** detector sensors, makes use of this technology (eg. **TouchID**) in order to improve security vs password laziness.
 
 ---
 
-# 3. Tame your logs
+# 3. :horse: Tame your logs
 
 During app development, **logs** save you a lot of :hourglass:.
 
@@ -49,7 +52,7 @@ Looking at logs someone can discover easily issues or flows and use them.
 
 ---
 
-# 4. Jailbreaking, hurts
+# 4. Jailbreaking, hurts :cop:
 
 > iOS apps are secure, are sandboxed, etc etc.
 
@@ -60,4 +63,14 @@ Avoid to add sensitive data inside **plists** files and encrypt as much as you c
 
 ---
 
-# 5.
+# 5. RTFM :books:
+
+There are really interesting (& free) resources about app security:
+
+- [iOS Developer cheatsheet by OWASP](https://www.owasp.org/index.php/IOS_Developer_Cheat_Sheet)
+- [OSX Secure Coding](https://developer.apple.com/library/mac/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html)
+
+---
+
+## ![inline 40%](boostco.de.png)
+### boostco.de
