@@ -59,6 +59,10 @@ boostco.de founder
 
 ---
 
+![autoplay fit](https://www.youtube.com/watch?v=lYC6riNxmis)
+
+---
+
 # ResearchKit / __*what's new?*__
 __*Mobile app based approach allows you to have:*__
 - wider reach
@@ -69,13 +73,13 @@ __*Mobile app based approach allows you to have:*__
 ---
 
 # ResearchKit / __*in numbers*__
-# *+80k*
+# [fit] *+80k*
 subscribers in *7* months
 
 ---
 
 # ResearchKit / __*in numbers*__
-# *+10k*
+# [fit] *+10k*
 subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=972189947&mt=8&ls=1&v0=www-us-researchkit-itms-my-heart)
 
 ---
@@ -88,10 +92,15 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 # ResearchKit
 
+![inline 30%](github.png)
+
 [Github/ResearchKit](github.com/ResearchKit)
 
-### [fit] __*3 modules*__
+---
 
+# ResearchKit
+
+### [fit] __*3 modules*__
 ---
 
 # ResearchKit / __*Consent*__
@@ -118,6 +127,8 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 ---
 
-# ResearchKit / *4 Android*
+# ResearchKit / *Android*
+
+![inline 100%](ResearchStack-logo.png)
 
 [Github/ResearchStack](github.com/ResearchStack)
