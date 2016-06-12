@@ -1,2 +1,2 @@
 # talks
-My talks repository, powered by SpeakerDeck
+My talks repository, powered by DeckSet
