@@ -1,4 +1,4 @@
-footer: An introduction to CareKit & ResearchKit © Matteo Crippa / boostco.de 2016
+footer: An introduction to CareKit & ResearchKit © Matteo Crippa / *[boostco.de](http://boostco.de)* 2016
 slidenumbers: true
 
 ## [fit] an introduction to
@@ -9,9 +9,9 @@ slidenumbers: true
 ---
 
 ## [fit] Matteo Crippa
-## [fit] *__@ghego20__*
+## *__@ghego20__*
 iOS Dev since 2.2 & CareKit and ResearchKit advocate
-boostco.de founder
+[boostco.de](http://boostco.de) founder
 
 ---
 
@@ -20,8 +20,7 @@ boostco.de founder
 
 ---
 
-## HealthKit
-
+# __*HealthKit*__
 ### provides _api_ and _storage_
 #### for health data.
 
@@ -32,8 +31,7 @@ boostco.de founder
 
 ---
 
-## ResearchKit
-
+# __*ResearchKit*__
 ### connects _researchers_ and _developers_
 #### with a new approach in clinical research.
 
@@ -44,18 +42,21 @@ boostco.de founder
 
 ---
 
-## CareKit
-
+# __*CareKit*__
 ### connects _patients_, _caregivers_ and _physicians_
 #### improving everyone's life.
 
 ---
 
 # HealthKit
-- dashboard (thx to Health app)
+- *dashboard (thx to Health app)*
 - medical ID
-- data storage
+- *data storage*
 - api
+
+---
+
+# __*ResearchKit*__
 
 ---
 
@@ -66,9 +67,9 @@ boostco.de founder
 # ResearchKit / __*what's new?*__
 __*Mobile app based approach allows you to have:*__
 - wider reach
-- driven data
+- *driven data*
 - continuous stream of data
-- feedback from participants
+- *feedback from participants*
 
 ---
 
@@ -84,13 +85,17 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 ---
 
-# ResearchKit / __*Month 1 Drop*__
-> more than __50%__ of the subscribers continue in using the app after __1 month__.
--- [ResearchKit](http://researchkit.org), Apple official blog
+# ResearchKit / __*month 1 drop*__
+
+![inline](rk-chart.png)
+> more than **50%** of the initial subscribers
+> continue using the app after **1 month**.
+-- [ResearchKit Blog](http://researchkit.org/blog.html#article-2)
+
 
 ---
 
-# ResearchKit
+# __*ResearchKit*__
 
 ![inline 30%](github.png)
 
@@ -99,11 +104,13 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 ---
 
 # ResearchKit
-
 ### [fit] __*3 modules*__
+
 ---
 
 # ResearchKit / __*Consent*__
+
+![left fit](rk4.png)
 
 - onboarding survey
 - signature management
@@ -113,6 +120,8 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 # ResearchKit / __*Survey*__
 
+![right fit](rk2.png)
+
 - single || multiple answers
 - complex forms
 - optional tasks
@@ -121,14 +130,101 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 # ResearchKit / __*Active task*__
 
+![left fit](rk3.png)
+
 - semi-controlled test
 - device sensors
 - third party hardware
 
 ---
 
-# ResearchKit / *Android*
+# ResearchKit / __*Mix data*__
+
+![left fit](rk1.png)
+
+- user surveys
+- device sensors (eg. gyroscope, etc.)
+- third party sensors (eg. fit bands, etc.)
+- big data
+
+---
+
+# ResearchKit / __*Android*__
 
 ![inline 100%](ResearchStack-logo.png)
 
 [Github/ResearchStack](github.com/ResearchStack)
+
+---
+
+# __*CareKit*__
+
+---
+
+# __*CareKit*__
+
+![inline 30%](github.png)
+
+[Github/CareKit](https://github.com/carekit-apple/CareKit)
+
+---
+
+# CareKit
+### [fit] __*6 modules*__
+
+---
+
+![left fit](ck1.png)
+
+# CareKit / __*Care Card*__
+
+- *interactive dashboard*
+
+- *tracks treatment (eg. taking medication or performing physical exercises)*
+
+---
+
+![right fit](ck2.png)
+
+# CareKit / __*Symptom*__
+
+- *dashboard*
+
+- *built on top of* ResearchKit *surveys*
+
+---
+
+![left fit](ck3.png)
+
+# CareKit / __*Insight*__
+
+*tracks treatment (eg. taking medication or performing physical exercises)*
+
+---
+
+![right fit](ck4.png)
+
+# CareKit / __*Connect*__
+
+*tracks treatment (eg. taking medication or performing physical exercises)*
+
+---
+
+# CareKit / __*Care plan store*__
+
+- *Stores all the data displayed by* Care Card *and* Progress Card*.*
+
+- *It provides reactive information to UI.*
+
+- *It is* encrypted *by default.*
+
+---
+
+# CareKit / __*Document exporter*__
+
+*Allows you to export data in* HTML *or* PDF *format, creating custom template based documents with graphs.*
+
+---
+
+## ![inline 40%](boostco.de.png)
+### *[boostco.de](http://boostco.de)*
