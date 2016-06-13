@@ -1,17 +1,18 @@
-footer: An introduction to CareKit & ResearchKit © Matteo Crippa / *[boostco.de](http://boostco.de)* 2016
+autoscale: true
 slidenumbers: true
+footer: __An introduction to CareKit & ResearchKit__ - © Matteo Crippa / *[boostco.de](http://boostco.de)* - 2016
 
-## [fit] an introduction to
-# [fit] **_CareKit_**
-## [fit] &
-# [fit] **_ResearchKit_**
+### an introduction to
+## [fit] **_CareKit_**
+### &
+## [fit] **_ResearchKit_**
 
 ---
 
 ## [fit] Matteo Crippa
 ## *__@ghego20__*
-iOS Dev since 2.2 & CareKit and ResearchKit advocate
-[boostco.de](http://boostco.de) founder
+*iOS* dev since *2.2* & *CareKit* and *ResearchKit* advocate
+[boostco.de](http://boostco.de) *founder*
 
 ---
 
@@ -48,15 +49,15 @@ iOS Dev since 2.2 & CareKit and ResearchKit advocate
 
 ---
 
-# HealthKit
-- *dashboard (thx to Health app)*
-- medical ID
-- *data storage*
-- api
+# __*HealthKit*__
 
 ---
 
-# __*ResearchKit*__
+# HealthKit
+- *dashboard (Health app)*
+- *medical ID*
+- *data storage*
+- *api*
 
 ---
 
@@ -64,12 +65,15 @@ iOS Dev since 2.2 & CareKit and ResearchKit advocate
 
 ---
 
-# ResearchKit / __*what's new?*__
-__*Mobile app based approach allows you to have:*__
-- wider reach
+# __*ResearchKit*__
+
+---
+
+# ResearchKit / __*benefits*__
+- *wider reach*
 - *driven data*
-- continuous stream of data
-- *feedback from participants*
+- *continuous stream of data*
+- *real-time feedback from/to participants*
 
 ---
 
@@ -81,7 +85,7 @@ subscribers in *7* months
 
 # ResearchKit / __*in numbers*__
 # [fit] *+10k*
-subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=972189947&mt=8&ls=1&v0=www-us-researchkit-itms-my-heart)
+subscribers in *24* hours for *[MyHeart Counts](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=972189947&mt=8&ls=1&v0=www-us-researchkit-itms-my-heart)* app
 
 ---
 
@@ -112,9 +116,10 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 ![left fit](rk4.png)
 
-- onboarding survey
-- signature management
-- pdf generator
+Partecipants in research or clinical studies are ofter asked to share sensitive data, this module provides an easy and flexible templating system for enrollment:<br>
+- *multiple template section (__NDA, privacy, data usage, etc.__)*
+- *signature management*
+- *pdf generator*
 
 ---
 
@@ -122,19 +127,21 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 ![right fit](rk2.png)
 
-- single || multiple answers
-- complex forms
-- optional tasks
+Provides a predefined user interface to build surveys:<br>
+- *defining questions*
+- *type of answers (__single, multiple, image, etc.__)*
+- *optional tasks*
+- *easy to localize*
 
 ---
 
-# ResearchKit / __*Active task*__
+# ResearchKit / __*Active tasks*__
 
 ![left fit](rk3.png)
 
-- semi-controlled test
-- device sensors
-- third party hardware
+- *semi-controlled test*
+- *iPhone sensors*
+- *third party hardware (__eg. fit bands__)*
 
 ---
 
@@ -142,10 +149,10 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 ![left fit](rk1.png)
 
-- user surveys
-- device sensors (eg. gyroscope, etc.)
-- third party sensors (eg. fit bands, etc.)
-- big data
+- *user anwers*
+- *iPhone sensors (__eg. gyroscope, etc.__)*
+- *third party sensors (__eg. fit bands, etc.__)*
+- *big data (__eg. weather, pollution, etc.__)*
 
 ---
 
@@ -154,6 +161,13 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 ![inline 100%](ResearchStack-logo.png)
 
 [Github/ResearchStack](github.com/ResearchStack)
+
+---
+
+![inline 70%](Colorblind.png)
+
+*[download app](https://itunes.apple.com/us/app/dogkit/id1109761639?mt=8)*
+[download source code](https://github.com/boostcode/ResearchKit-ColorBlind)
 
 ---
 
@@ -178,9 +192,14 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 # CareKit / __*Care Card*__
 
-- *interactive dashboard*
+- *interactive dashboard of tasks*
 
-- *tracks treatment (eg. taking medication or performing physical exercises)*
+- *tracks treatment tasks (__eg. taking medication or performing physical exercises__)*
+
+- *each task can be defined with custom:*
+ - schedule
+ - reference color
+ - description
 
 ---
 
@@ -188,17 +207,22 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 # CareKit / __*Symptom*__
 
-- *dashboard*
+- *interactive dashboard*
 
-- *built on top of* ResearchKit *surveys*
+- *tasks are built on top of* ResearchKit *surveys*
+
+- *each task can be composed by more than a question*
+
+- *tasks can be connected to sensors or third party devices*
 
 ---
 
 ![left fit](ck3.png)
 
-# CareKit / __*Insight*__
+# CareKit / __*Insights*__
 
-*tracks treatment (eg. taking medication or performing physical exercises)*
+- *charts showing relations between treatments and progress*
+- *tips or alert to suggest patients to stay on track with their health goals*
 
 ---
 
@@ -206,23 +230,39 @@ subscribers in *24* hours for [MyHeart Counts](https://itunes.apple.com/WebObjec
 
 # CareKit / __*Connect*__
 
-*tracks treatment (eg. taking medication or performing physical exercises)*
+- *contacts manager (__CRUD and categories__)*
+- *share insights data*
 
 ---
 
 # CareKit / __*Care plan store*__
 
-- *Stores all the data displayed by* Care Card *and* Progress Card*.*
+- *Stores all the data displayed by* Care Card *and* Progress Card
 
-- *It provides reactive information to UI.*
+- *It updates the UI in a reactive way*
 
-- *It is* encrypted *by default.*
+- encrypted*, by default*
 
 ---
 
-# CareKit / __*Document exporter*__
+# CareKit / __*Documents*__
 
-*Allows you to export data in* HTML *or* PDF *format, creating custom template based documents with graphs.*
+- *Generate custom reports with* graphs *and information from the insights*
+- HTML *and* PDF *supported formats*
+
+---
+
+![inline 70%](dogKit.png)
+
+*[download dogKit](https://itunes.apple.com/us/app/dogkit/id1109761639?mt=8)*
+
+---
+
+# [fit] dogKit / __*1st CareKit app for pets*__
+
+---
+
+# [fit] Q*&*A *?*
 
 ---
 
