@@ -1,6 +1,6 @@
 autoscale: true
 slidenumbers: true
-footer: __An introduction to CareKit & ResearchKit__ - © Matteo Crippa / *[boostco.de](http://boostco.de)* - 2016
+footer: *#carekitwebinar* - © Matteo Crippa / :rocket: *[boostco.de](http://boostco.de)* - 2016
 
 ### an introduction to
 ## [fit] **_CareKit_**
@@ -10,9 +10,10 @@ footer: __An introduction to CareKit & ResearchKit__ - © Matteo Crippa / *[boos
 ---
 
 ## [fit] Matteo Crippa
-## *__@ghego20__*
-*iOS* dev since *2.2* & *CareKit* and *ResearchKit* advocate
-[boostco.de](http://boostco.de) *founder*
+*iOS* __dev__ since *2.2* & *CareKit* and *ResearchKit* __advocate__
+:rocket: *[boostco.de](http://boostco.de)* __founder__<br>
+
+## twitter: *__@ghego20__* / in: *__matteocrippamc__*
 
 ---
 
@@ -49,7 +50,7 @@ footer: __An introduction to CareKit & ResearchKit__ - © Matteo Crippa / *[boos
 
 ---
 
-# __*HealthKit*__
+# __*#HealthKit*__
 
 ---
 
@@ -65,7 +66,7 @@ footer: __An introduction to CareKit & ResearchKit__ - © Matteo Crippa / *[boos
 
 ---
 
-# __*ResearchKit*__
+# __*#ResearchKit*__
 
 ---
 
@@ -78,14 +79,14 @@ footer: __An introduction to CareKit & ResearchKit__ - © Matteo Crippa / *[boos
 ---
 
 # ResearchKit / __*in numbers*__
-# [fit] *+80k*
+# [fit] *+80k :family:*
 subscribers in *7* months
 
 ---
 
 # ResearchKit / __*in numbers*__
-# [fit] *+10k*
-subscribers in *24* hours for *[MyHeart Counts](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=972189947&mt=8&ls=1&v0=www-us-researchkit-itms-my-heart)* app
+# [fit] *+10k :family:*
+subscribers in *24* hours for *[myHeart Counts](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=972189947&mt=8&ls=1&v0=www-us-researchkit-itms-my-heart)* app
 
 ---
 
@@ -164,6 +165,14 @@ Provides a predefined user interface to build surveys:<br>
 
 ---
 
+# ResearchKit / __*No backend*__
+
+Apple doesn't provide any specific backend for ResearchKit apps and it is out of scope of the project.
+
+Feel free to user your already existing one or develop a new dedicated from scratch.
+
+---
+
 ![inline 70%](Colorblind.png)
 
 *[download app](https://itunes.apple.com/us/app/dogkit/id1109761639?mt=8)*
@@ -171,10 +180,14 @@ Provides a predefined user interface to build surveys:<br>
 
 ---
 
-# __*CareKit*__
+# __*#CareKit*__
 
 ---
 
+# [fit] is *species* agnostic
+# :man: :dog: :cat: :tulip:
+
+---
 # __*CareKit*__
 
 ![inline 30%](github.png)
@@ -258,7 +271,7 @@ Provides a predefined user interface to build surveys:<br>
 
 ---
 
-# [fit] dogKit / __*1st CareKit app for pets*__
+# [fit] dogKit / __*1st CareKit app for :dog:*__
 
 ---
 
