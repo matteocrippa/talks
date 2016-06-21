@@ -167,9 +167,17 @@ Provides a predefined user interface to build surveys:<br>
 
 # ResearchKit / __*No backend*__
 
-Apple doesn't provide any specific backend for ResearchKit apps and it is out of scope of the project.
+*Apple doesn't provide any specific backend for __ResearchKit__ apps and it is out of scope of the project.*
 
-Feel free to user your already existing one or develop a new dedicated from scratch.
+---
+
+# ResearchKit / __*What's new?*__
+
+*Apple announced 3 new improvements during latest __WWDC__:*
+
+- *Branching tasks*
+- *App access*
+- *Charts*
 
 ---
 
