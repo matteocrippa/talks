@@ -9,6 +9,10 @@ footer: *#carekitwebinar* - © Matteo Crippa / :rocket: *[boostco.de](http://boo
 
 ---
 
+# [fit] *#carekitwebinar*
+
+---
+
 ## [fit] Matteo Crippa
 *iOS* __dev__ since *2.2* & *CareKit* and *ResearchKit* __advocate__
 :rocket: *[boostco.de](http://boostco.de)* __founder__<br>
@@ -62,10 +66,6 @@ footer: *#carekitwebinar* - © Matteo Crippa / :rocket: *[boostco.de](http://boo
 
 ---
 
-![autoplay fit](https://www.youtube.com/watch?v=lYC6riNxmis)
-
----
-
 # __*#ResearchKit*__
 
 ---
@@ -104,7 +104,7 @@ subscribers in *24* hours for *[myHeart Counts](https://itunes.apple.com/WebObje
 
 ![inline 30%](github.png)
 
-[Github/ResearchKit](github.com/ResearchKit)
+*[Github/ResearchKit](https://github.com/ResearchKit)*
 
 ---
 
@@ -161,10 +161,9 @@ Provides a predefined user interface to build surveys:<br>
 
 ![inline 100%](ResearchStack-logo.png)
 
-[Github/ResearchStack](github.com/ResearchStack)
+*[Github/ResearchStack](github.com/ResearchStack)*
 
 ---
-
 # ResearchKit / __*No backend*__
 
 *Apple doesn't provide any specific backend for __ResearchKit__ apps and it is out of scope of the project.*
@@ -183,8 +182,8 @@ Provides a predefined user interface to build surveys:<br>
 
 ![inline 70%](Colorblind.png)
 
-*[download app](https://itunes.apple.com/us/app/dogkit/id1109761639?mt=8)*
-[download source code](https://github.com/boostcode/ResearchKit-ColorBlind)
+*[iTunes/Colorblind](https://itunes.apple.com/it/app/colorblind-app-color-blindness/id1098387412?mt=8)*
+[Github/boostcode/ResearchKit-ColorBlind](https://github.com/boostcode/ResearchKit-ColorBlind)
 
 ---
 
@@ -200,7 +199,7 @@ Provides a predefined user interface to build surveys:<br>
 
 ![inline 30%](github.png)
 
-[Github/CareKit](https://github.com/carekit-apple/CareKit)
+*[Github/carekit-apple/CareKit](https://github.com/carekit-apple/CareKit)*
 
 ---
 
@@ -275,7 +274,7 @@ Provides a predefined user interface to build surveys:<br>
 
 ![inline 70%](dogKit.png)
 
-*[download dogKit](https://itunes.apple.com/us/app/dogkit/id1109761639?mt=8)*
+*[iTunes/dogKit](https://itunes.apple.com/us/app/dogkit/id1109761639?mt=8)*
 
 ---
 
